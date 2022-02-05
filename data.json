@@ -1,0 +1,9 @@
+{
+  "name":"The Ultimate Docker Course",
+  "price": 149,
+  "is_publised": true,
+  "tags": ["software", "devops"],
+  "author": {
+    "first_name": "Mosh"
+  }
+}
